@@ -39,8 +39,8 @@
 
 ## 🌏 Get in Touch
 
-<a href="https://www.linkedin.com/in/imanvendra03/">
-  <img  alt="Manvendra Pratap Singh | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<a href="/www.linkedin.com/in/vibha-singh-8172a5189">
+  <img  alt="Vibha Singh | LinkedIn "src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 
 
